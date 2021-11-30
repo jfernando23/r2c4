@@ -12,7 +12,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 /**
  *
- * @author USUARIO
+ * @author pau8470
  */
 @Document(collection = "usuarios")
 @Data

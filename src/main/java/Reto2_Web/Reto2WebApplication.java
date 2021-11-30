@@ -1,10 +1,3 @@
-//modelo
-//interface
-//repositorio
-//servicio
-//controlador
-
-
 package Reto2_Web;
 import Reto2_Web.interfaces.InterfaceUser;
 import Reto2_Web.interfaces.InterfaceSupplements;

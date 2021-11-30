@@ -23,10 +23,10 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  *
- * @author USUARIO
+ * @author pau8470
  */
 @RestController
-@RequestMapping("/api/supplements")
+@RequestMapping("/api/chocolate")
 @CrossOrigin("*")
 public class SupplementsController {
        @Autowired
